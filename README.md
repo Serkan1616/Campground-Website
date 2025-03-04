@@ -1,4 +1,4 @@
-![tümkampalanları](https://github.com/user-attachments/assets/6c9c9881-2c7b-4340-b91a-2bb48de54d17)# YelpCamp
+# YelpCamp
 
 YelpCamp is a full-stack web application that allows users to discover, add, and review campgrounds. The platform features an interactive map to showcase campground locations, providing an engaging experience for outdoor enthusiasts.
 
